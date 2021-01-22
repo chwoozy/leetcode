@@ -1,5 +1,5 @@
 # leetcode
-my leetcode attempts & solutions
+my leetcode attempts & solutions  
 
 No. | Problem | Solution
 ------------ | ------------- | -------------
