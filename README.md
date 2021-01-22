@@ -11,7 +11,10 @@ No. | Problem | Solution
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](soln/binary-tree-inorder-traversal)
 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [C++](soln/binary-tree-level-order-traversal-ii)
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](soln/balanced-binary-tree)
+202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](soln/happy-number)
+274 | [H-Index](https://leetcode.com/problems/h-index/) | [C++](soln/h-index)
 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](soln/burst-balloons)
+334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](soln/increasing-triplet-subsequence)
 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [C++](soln/beautiful-arrangement)
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C++](soln/diameter-of-binary-tree)
 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java](soln/average-of-levels-in-binary-tree)
@@ -22,7 +25,11 @@ No. | Problem | Solution
 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [C++](soln/boats-to-save-people)
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](soln/defanging-an-ip-address)
 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [C++](soln/decrease-elements-to-make-array-zigzag)
+1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [C++](soln/how-many-numbers-are-smaller-than-the-current-number)
+1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [C++](soln/increasing-decreasing-string)
+1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [C++](soln/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)
 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Java](soln/destination-city)
+1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [C++](soln/kth-missing-positive-number)
 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [C++](soln/check-array-formation-through-concatenation)
 1649 | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [C++](soln/create-sorted-array-through-instructions)
 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [C++](soln/check-if-two-string-arrays-are-equivalent)
@@ -30,3 +37,5 @@ No. | Problem | Solution
 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [C++](soln/determine-if-string-halves-are-alike)
 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [C++](soln/count-good-meals)
 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [C++](soln/calculate-money-in-leetcode-bank)
+
+kth
