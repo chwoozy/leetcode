@@ -1,5 +1,6 @@
 # leetcode
-my leetcode attempts & solutions  
+my leetcode attempts & solutions
+[![](https://leetcode-badge.haozibi.dev/v1/solved/yungweezy.svg)](https://leetcode.com/yungweezy)
 
 No. | Problem | Solution
 ------------ | ------------- | -------------
