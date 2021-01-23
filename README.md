@@ -8,7 +8,7 @@ No. | Problem | Solution
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](soln/longest-substring-without-repeating-characters)
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](soln/longest-palindromic-substring)
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](soln/reverse-integer)
-8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/ | [C++](soln/string-to-integer-atoi)
+8 | [String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/ | [C++](soln/string-to-integer-atoi)
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](soln/container-with-most-water)
 15 | [3Sum](https://leetcode.com/problems/3sum/) | [C++](soln/3sum)
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](soln/merge-two-sorted-lists)
